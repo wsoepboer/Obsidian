@@ -53,6 +53,15 @@ Words that describe qualities, states, and feelings.
 
 ---
 
+## Feelings & Experience
+
+| Korean | English | -어요/-아요 | Lesson |
+|--------|---------|-----------|--------|
+| 재미있다 | interesting / fun | 재미있어요 | 08-09 |
+| 힘들다 | hard / tough | 힘들어요 | 08-09 |
+
+---
+
 ## Practice Sentences
 
 - 오늘 날씨가 **맑아요**. (Today's weather is clear.)

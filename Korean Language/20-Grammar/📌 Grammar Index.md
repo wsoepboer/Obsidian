@@ -16,6 +16,8 @@ Core to Korean sentence structure. Used to mark grammatical relationships.
 - [[20-Grammar/Particles/Possession (의)|Possession]] (의)
 - [[20-Grammar/Particles/Directional (에게한테)|Directional]] (에게/한테)
 - [[20-Grammar/Particles/Exclusivity (만)|Exclusivity]] (만)
+- [[20-Grammar/Particles/Location (에)|Location]] (에) — existence, position, destination
+- [[20-Grammar/Particles/Action Location (에서)|Action Location]] (에서) — where an action happens, "from"
 
 ---
 
@@ -98,6 +100,8 @@ Intermediate and advanced structures for more complex meanings.
 | [[10-Lessons/2026-07-12 - Informal Polite Speech\|12 Jul]] | -어요 / -아요 conjugation |
 | [[10-Lessons/2026-07-19 - Numbers & Giving\|19 Jul]] | Numbers, -에게/한테 |
 | [[10-Lessons/2026-08-02 - Indirect Objects & Exclusivity\|2 Aug]] | 에게/한테 with direct objects, -만 |
+| [[10-Lessons/2026-08-15 - Location Particle 에\|15 Aug]] | 장소 + 에, position nouns (위, 아래, 앞, 뒤, 옆, 사이) |
+| [[10-Lessons/2026-08-30 - 에 vs 에서\|30 Aug]] | 에 vs. 에서 — existence/direction vs. action |
 
 ---
 

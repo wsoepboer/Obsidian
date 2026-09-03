@@ -100,4 +100,74 @@ Application-level exercises combining grammar and vocabulary.
 
 ---
 
-**Related**: [[40-Review/Practice & Review|Practice & Review]], [[40-Review/Common Mistakes|Common Mistakes]]
+## Place Particles: 에 / 에서
+
+### Fill in 에 or 에서:
+
+21. 저는 내일 학교\_\_\_ 가요.
+    - Answer: 에 (destination — 가다)
+
+22. 저는 방\_\_\_ 자요.
+    - Answer: 에서 (action — 자다)
+
+23. 동생이 집\_\_\_ 없어요.
+    - Answer: 에 (existence — 없다)
+
+24. 저는 회사\_\_\_ 일해요.
+    - Answer: 에서 (action — 일하다)
+
+25. 은행이 회사 옆\_\_\_ 있어요.
+    - Answer: 에 (position — 있다)
+
+26. 저는 거실\_\_\_ 쉬어요.
+    - Answer: 에서 (action — 쉬다)
+
+27. 저는 올해 베트남\_\_\_ 가요.
+    - Answer: 에 (destination; 올해 itself takes no particle)
+
+---
+
+## Person vs. Place
+
+### Fill in 에, 에게/한테:
+
+28. 저는 친구\_\_\_ 전화를 해요.
+    - Answer: 에게 / 한테 (a person)
+
+29. 저는 서점\_\_\_ 가요.
+    - Answer: 에 (a place)
+
+30. 프엉 씨가 저\_\_\_ 선물을 줬어요.
+    - Answer: 에게 / 한테 (a person; 선물**을** stays as the direct object)
+
+---
+
+## Exclusivity: 만
+
+31. 저는 영어, 한국어, 일본어를 공부해요. → (Korean only)
+    - Answer: 저는 한국어**만** 공부해요.
+
+32. 저와 언니는 회사원이에요. 동생\_\_\_ 학생이에요.
+    - Answer: 만 (Only my younger sibling is a student.)
+
+33. 저는 집, 도서관, 학교에서 공부해요. → (at home only)
+    - Answer: 저는 집**에서만** 공부해요. (만 stacks after 에서)
+
+---
+
+## Where is it? (position nouns)
+
+### Answer using the cue:
+
+34. 휴대전화가 어디에 있어요? (책상 / 위)
+    - Answer: 책상 위에 있어요.
+
+35. 고양이가 어디에 있어요? (침대 / 아래)
+    - Answer: 침대 아래에 있어요.
+
+36. 서점이 어디에 있어요? (은행 / 학교 / 사이)
+    - Answer: 은행과 학교 사이에 있어요.
+
+---
+
+**Related**: [[40-Review/Practice & Review|Practice & Review]], [[40-Review/Common Mistakes|Common Mistakes]], [[20-Grammar/Particles/Action Location (에서)|에 vs 에서]]

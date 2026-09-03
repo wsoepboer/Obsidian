@@ -45,6 +45,8 @@
 |--------|---------|--------|
 | 치커리 | chicory | context |
 | 밥 | rice | context |
+| 야식 | midnight snack | 09-03 |
+| 도시락 | packed lunch | 09-03 |
 
 ---
 

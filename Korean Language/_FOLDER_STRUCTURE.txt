@@ -1,0 +1,118 @@
+Korean Language Vault - Complete File Listing
+================================================
+
+00-Home/
+├── 📍 Start Here.md
+└── Quick Reference.md
+
+10-Lessons/
+├── 📌 Lessons by Date.md
+├── 2026-06-18 - Particles & Formal Speech.md
+├── 2026-06-25 - More Particles.md
+├── 2026-07-12 - Informal Polite Speech.md
+├── 2026-07-16 - Vocabulary Expansion.md
+└── 2026-07-19 - Numbers & Giving.md
+
+20-Grammar/
+├── 📌 Grammar Index.md
+│
+├── Particles/
+│   ├── 📌 Particle Overview.md
+│   ├── Topic & Subject (은는 이가).md
+│   ├── Object (을를).md
+│   ├── Addition (도).md
+│   ├── Compound (과하고).md
+│   ├── Possession (의).md
+│   └── Directional (에게한태).md
+│
+├── Verb Endings/
+│   ├── 📌 Verb Endings Overview.md
+│   ├── Formal Polite.md
+│   └── Informal Polite.md
+│
+├── Special Verbs/
+│   ├── 📌 Special Verbs.md
+│   ├── 좋다 vs 좋아하다.md
+│   └── Negation.md
+│
+├── Numbers & Time/
+│   ├── 📌 Numbers & Time.md
+│   ├── Native Korean Numbers.md
+│   ├── Sino-Korean Numbers.md
+│   └── 📌 Counters (단위 명사).md
+│
+├── Copula/
+│   └── 이다 (to be).md
+│
+├── Speech Levels/
+│   └── 📌 Speech Levels & Politeness.md
+│
+├── Connective Endings/
+│   └── 📌 Connective Endings.md
+│
+├── Questions/
+│   └── Questions (의문문).md
+│
+└── Advanced Patterns/
+    ├── 📌 Advanced Grammar Patterns.md
+    ├── Nominalization (-기, -(으)ㅁ).md
+    ├── Reported Speech (-다고, -냐고, -라고).md
+    ├── State Descriptions (-아있다 vs -고있다).md
+    ├── Possibility & Modality.md
+    ├── Passive & Causative Voice.md
+    └── Advanced Endings (-는 것 같다, -게 되다).md
+
+30-Vocabulary/
+├── 📌 Vocabulary Index.md
+├── People & Family.md
+├── Food & Animals.md
+├── Actions & Verbs.md
+├── Descriptors & Adjectives.md
+├── Weather & Seasons.md
+├── Places & Facilities.md
+├── Time & Expressions.md
+└── Polite Phrases.md
+
+40-Review/
+├── Practice & Review.md
+├── Conjugation Drills.md
+├── Practice Questions.md
+└── Common Mistakes.md
+
+50-Resources/
+├── Abbreviations & Symbols.md
+└── Study Tips.md
+
+.obsidian/
+├── core.json
+└── workspace.json
+
+Root Files:
+├── README.md (original, can be deleted)
+├── FILE INDEX.md (comprehensive file listing - NEW)
+└── _FOLDER_STRUCTURE.txt (this file)
+
+================================================
+SUMMARY:
+================================================
+Total Markdown Files: 50+
+Total Grammar Files: 30
+Total Vocabulary Files: 10
+Total Review Files: 3
+Total Resource/Home Files: 7
+Total Index Files: 5
+
+Key Statistics:
+- Grammar topics covered: 30+
+- Vocabulary words: ~140+
+- Particles explained: 7 major + location/directional particles
+- Verb endings: 4 speech levels
+- Counters: 25+ unit nouns
+- Advanced patterns: 6 major areas
+
+Entry Points:
+1. 00-Home/📍 Start Here.md (recommended for new users)
+2. 00-Home/Quick Reference.md (quick lookup)
+3. 10-Lessons/📌 Lessons by Date.md (chronological learning)
+4. 20-Grammar/📌 Grammar Index.md (topic-based learning)
+5. 30-Vocabulary/📌 Vocabulary Index.md (vocabulary focus)
