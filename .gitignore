@@ -6,3 +6,6 @@
 # macOS
 .DS_Store
 **/.DS_Store
+
+# Obsidian plugin code (reinstalled from community-plugins.json, not worth versioning)
+**/.obsidian/plugins/
