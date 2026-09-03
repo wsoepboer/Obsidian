@@ -87,7 +87,7 @@ See: [[30-Vocabulary/People & Family]], [[30-Vocabulary/Actions & Verbs]], [[30-
 
 **연습 I — 에게/한테 fill-in**:
 
-1. 가장 씨가 리샤 씨**에게/한테** 전화를 해요.
+1. 가장 씨가 리사 씨**에게/한테** 전화를 해요.
    (Gajang calls Lisa.)
 2. 나타샤 씨는 친구**에게/한테** 편지를 써요.
    (Natasha writes a postcard to her friend.)
