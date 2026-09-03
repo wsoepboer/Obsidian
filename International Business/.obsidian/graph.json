@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Book - Accounting & Finance\"",
+      "query": "tag:#course/business-economics",
       "color": {
         "a": 1,
         "rgb": 5025616
-      }
-    },
-    {
-      "query": "path:\"Lectures - Organisation, Strategy & HRM\"",
-      "color": {
-        "a": 1,
-        "rgb": 2201331
       }
     },
     {
@@ -26,6 +19,55 @@
       "color": {
         "a": 1,
         "rgb": 16750592
+      }
+    },
+    {
+      "query": "tag:#course/smart-industry",
+      "color": {
+        "a": 1,
+        "rgb": 48340
+      }
+    },
+    {
+      "query": "tag:#course/global-dynamics-scm",
+      "color": {
+        "a": 1,
+        "rgb": 2201331
+      }
+    },
+    {
+      "query": "tag:#course/family-business-research",
+      "color": {
+        "a": 1,
+        "rgb": 10233776
+      }
+    },
+    {
+      "query": "tag:#course/personal-branding",
+      "color": {
+        "a": 1,
+        "rgb": 15277667
+      }
+    },
+    {
+      "query": "tag:#course/operations-management",
+      "color": {
+        "a": 1,
+        "rgb": 7951688
+      }
+    },
+    {
+      "query": "tag:#course/french-intercultural-3",
+      "color": {
+        "a": 1,
+        "rgb": 4149685
+      }
+    },
+    {
+      "query": "tag:#course/global-sales-accountmanagement",
+      "color": {
+        "a": 1,
+        "rgb": 16007990
       }
     }
   ],

@@ -6,3 +6,10 @@
 # macOS
 .DS_Store
 **/.DS_Store
+
+# macOS zip-extraction resource forks (junk, no content)
+__MACOSX/
+
+# Stray Obsidian config at the repo root - the root is a container for the
+# vaults below it, not a vault itself
+/.obsidian/

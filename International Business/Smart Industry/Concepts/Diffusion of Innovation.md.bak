@@ -1,0 +1,29 @@
+---
+tags: [course/smart-industry, type/concept]
+aliases: [Rogers adoption curve, adopter categories, Rogers diffusion]
+---
+
+# Diffusion of Innovation
+
+Rogers' model of how an innovation spreads through a population over time, producing the S-curve. Adopter categories: **innovators (~2.5%) · early adopters (~13.5%) · early majority (~34%) · late majority (~34%) · laggards (~16%)**.
+
+## The five constructs (as taught)
+Innovations succeed when they are broadly adopted. What decides that:
+
+| Construct | Effect on adoption | Question it answers |
+|---|---|---|
+| **Relative advantage** | Increase | What problem does it solve? What is the added value — need, value, financial return? |
+| **Compatibility** | Increase | How does it fit existing values, past experiences and the needs of potential adopters? |
+| **Complexity** | **Lower** | How hard is it to understand and use? |
+| **Trialability** | Increase | Can it be experimented with first? |
+| **Observability** | Increase | Are the results visible to others? |
+
+## Use in this course
+Two jobs. First, the test for whether something is still a [[Trend]]: past the early majority it is becoming the norm. Second, week 1 asks explicitly **how you would divide your industry using Rogers' diffusion** — where do the firms in it sit on the curve?
+
+The running case is the **Dutch self-checkout, launched 2005**: who considers themselves an early adopter, who has used a smart cart, who has shopped at a robotic convenience store.
+
+**See also:** [[Gartner Hype Cycle]] · [[Technology Adoption]] · [[Trend Classification]] · [[Industry Life Cycle]]
+
+---
+**Appears in:** [[W1 - Kick-Off - Technology and Trends]] · [[W3 - Trend Analysis and Trend Battle]] · [[W6 - Trend Adoption]] · [[00 Smart Industry MOC|↩ MOC]]
