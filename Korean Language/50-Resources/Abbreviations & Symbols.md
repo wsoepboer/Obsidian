@@ -40,6 +40,10 @@ Quick reference for notations used in these notes.
 | 07-12 | July 12, 2026 |
 | 07-16 | July 16, 2026 |
 | 07-19 | July 19, 2026 |
+| 08-02 | August 2, 2026 |
+| 08-09 | August 9, 2026 |
+| 08-15 | August 15, 2026 |
+| 08-30 | August 30, 2026 |
 
 ---
 

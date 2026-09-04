@@ -66,22 +66,50 @@ All lessons organized chronologically.
 
 ---
 
+### [[10-Lessons/2026-08-09 - Student Life & Study Vocabulary|9 Aug 2026]]
+**Topics**: No new grammar — vocabulary focus only
+
+**Vocabulary**: 21 new words (campus & study life, stationery, wellbeing expressions)
+
+---
+
+### [[10-Lessons/2026-08-15 - Location Particle 에|15 Aug 2026]]
+**Topics**:
+- Particle 장소 + 에 — existence/position (있다/없다) and destination (가다)
+- Position nouns: 위, 아래, 앞, 뒤, 옆, 사이 (+ 에)
+- 에 (place) vs. 에게/한테 (person)
+
+**Vocabulary**: 12 items (position words, rooms & objects, 자취하다 / 월세 from the drill)
+
+---
+
+### [[10-Lessons/2026-08-30 - 에 vs 에서|30 Aug 2026]]
+**Topics**:
+- Particle 에 vs. 에서 — the verb decides
+- 에 with 있다/없다/가다; 에서 with action verbs (먹다, 자다, 쉬다, 일하다)
+- Time words 내일 / 올해 / 지금 take no particle
+
+**Vocabulary**: 10 items (rooms, work, time)
+
+---
+
 ## Summary by Grammar Area
 
 | Topic | Lesson(s) |
 |-------|-----------|
-| [[20-Grammar/Particles/📌 Particle Overview\|Particles]] | 18 Jun, 25 Jun, 19 Jul, 2 Aug |
+| [[20-Grammar/Particles/📌 Particle Overview\|Particles]] | 18 Jun, 25 Jun, 19 Jul, 2 Aug, 15 Aug, 30 Aug |
 | [[20-Grammar/Verb Endings/📌 Verb Endings Overview\|Verb endings]] | 18 Jun, 12 Jul |
 | [[20-Grammar/Special Verbs/📌 Special Verbs\|Special verbs]] | 18 Jun |
 | [[20-Grammar/Numbers & Time/📌 Numbers & Time\|Numbers & time]] | 19 Jul |
+| [[20-Grammar/Particles/Location (에)\|Place particles (에 / 에서)]] | 15 Aug, 30 Aug |
 
 ---
 
 ## Total Progress
 
-- **6 lessons** (18 Jun – 2 Aug 2026)
-- **~150+ vocabulary words**
-- **13 major grammar topics**
+- **9 lessons** (18 Jun – 30 Aug 2026)
+- **~190+ vocabulary words**
+- **14 major grammar topics**
 
 ---
 

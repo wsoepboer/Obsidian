@@ -31,6 +31,68 @@ See: [[20-Grammar/Special Verbs/좋다 vs 좋아하다|Full explanation]]
 
 ---
 
+### ❌ Mistake: 에 where the verb needs 에서
+
+- ❌ 저는 집**에** 먹어요.
+- ✓ 저는 집**에서** 먹어요. (I eat at home.)
+
+**Why**: 먹다 is an action, so the place takes 에서. 에 only goes with 있다 / 없다 / 가다 / 오다.
+
+**Rule**: 있다·없다·가다 → 에. Anything you *do* → 에서.
+
+- ✓ 저는 집**에** 가요. (destination)
+- ✓ 저는 방**에서** 자요. (action)
+
+See: [[20-Grammar/Particles/Action Location (에서)|에 vs 에서]]
+
+---
+
+### ❌ Mistake: 에 on a person
+
+- ❌ 친구**에** 전화를 해요.
+- ✓ 친구**에게/한테** 전화를 해요. (I call my friend.)
+- ❌ 학교**에게** 가요.
+- ✓ 학교**에** 가요.
+
+**Why**: 에 marks **places**; 에게/한테 marks **people**. They don't swap.
+
+See: [[20-Grammar/Particles/Directional (에게한테)|에게/한테]], [[20-Grammar/Particles/Location (에)|에]]
+
+---
+
+### ❌ Mistake: 에 on 오늘 / 내일 / 지금
+
+- ❌ **내일에** 학교에 가요.
+- ✓ **내일** 학교에 가요. (Tomorrow I go to school.)
+- ✓ 세 시**에** 만나요. (Clock times *do* take 에.)
+
+**Rule**: 오늘, 내일, 어제, 지금, 올해 stand bare. 시, 요일, 월, 날짜 take 에.
+
+---
+
+### ❌ Mistake: Stacking particles on 만
+
+- ❌ 저는 노래**만을** 좋아해요.
+- ✓ 저는 노래**만** 좋아해요. (I only like songs.)
+- ✓ 저는 집**에서만** 공부해요. (I study only at home — this stacking *is* fine.)
+
+**Why**: 만 replaces 은/는, 이/가, 을/를, but stacks after 에게, 에, 에서.
+
+See: [[20-Grammar/Particles/Exclusivity (만)|Exclusivity 만]]
+
+---
+
+### ❌ Mistake: Reversing position-word order
+
+- ❌ 위 책상**에** 있어요.
+- ✓ 책상 위**에** 있어요. (It's on the desk.)
+
+**Rule**: reference noun **first**, position word second, then 에 — the mirror image of English.
+
+See: [[30-Vocabulary/Position & Direction|Position & Direction]]
+
+---
+
 ## Verb Conjugation Errors
 
 ### ❌ Mistake: Forgetting irregular verbs
@@ -140,6 +202,9 @@ See: [[20-Grammar/Special Verbs/Negation|Negation rules]]
 - [ ] Did I choose the right negation (못 vs. 안)?
 - [ ] Did I follow S-O-V word order?
 - [ ] Did I match the formality level?
+- [ ] For a place: did the verb pick 에 or 에서 correctly?
+- [ ] Person → 에게/한테, place → 에?
+- [ ] Did I leave 오늘/내일/지금 without 에?
 
 ---
 

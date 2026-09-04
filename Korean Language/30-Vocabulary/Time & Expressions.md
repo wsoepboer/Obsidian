@@ -12,6 +12,8 @@ Time words, frequency adverbs, and connecting words.
 | 내일 | tomorrow | 06-25 |
 | 지금 | now | 07-16 |
 | 언제 | when | context |
+| 이번 | this time | 08-09 |
+| 올해 | this year | 08-30 |
 
 ---
 
@@ -39,6 +41,7 @@ Time words, frequency adverbs, and connecting words.
 |--------|---------|--------|
 | 누구 | who | 07-16 |
 | 어느 | which | 07-16 |
+| 어디 | where | 08-09 |
 
 ---
 
@@ -51,6 +54,12 @@ Time words, frequency adverbs, and connecting words.
 | 음악 | music | 06-18 |
 | 드라마 | drama | 06-25 |
 | 이것 | this | 07-16 |
+| 볼펜 | pen | 08-09 |
+| 연필 | pencil | 08-09 |
+| 공책 | notebook (paper) | 08-09 |
+| 노트북 | laptop | 08-09 |
+| 사진 | picture | 08-09 |
+| 영화 | movie | 09-03 |
 
 ---
 
@@ -63,14 +72,45 @@ Time words, frequency adverbs, and connecting words.
 
 ---
 
+## Adverbs & Degree
+
+| Korean | English | Lesson |
+|--------|---------|--------|
+| 정말 | really | 08-09 |
+| 별로 | not that much | 08-09 |
+| 또 | again | 08-09 |
+
+---
+
+## Health & Daily Life
+
+| Korean | English | Lesson |
+|--------|---------|--------|
+| 건강 | health | 08-09 |
+| 생활 | life | 08-09 |
+| 업계 | industry; the trade | 08-30 |
+
+---
+
+## ⚠️ These time words take no 에
+
+오늘, 내일, 어제, 지금, 올해 stand **bare** — no particle:
+
+- ✓ 저는 **내일** 학교에 가요. / ❌ 내일**에** 학교에 가요.
+- ✓ 저는 **올해** 베트남에 가요.
+
+But clock times, days and months **do** take 에: 세 시**에**, 일요일**에**, 6월**에**. See [[20-Grammar/Particles/Location (에)|Particle 에]].
+
+---
+
 ## Practice Sentences
 
 - **오늘**은 일요일이에요. (Today is Sunday.)
-- **내일**에 뭐 해요? (What are you doing tomorrow?)
+- **내일** 뭐 해요? (What are you doing tomorrow?)
 - **지금** 뭐 하고 있어요? (What are you doing now?)
 - 저는 축구를 **자주** 해요. (I play soccer often.)
 - **노래**를 좋아하고 **드라마**도 좋아해요. (I like songs and also like dramas.)
 
 ---
 
-**Related**: [[30-Vocabulary/📌 Vocabulary Index|Vocabulary Index]], [[20-Grammar/Numbers & Time/📌 Numbers & Time|Numbers & Time]]
+**Related**: [[30-Vocabulary/📌 Vocabulary Index|Vocabulary Index]], [[20-Grammar/Numbers & Time/📌 Numbers & Time|Numbers & Time]], [[20-Grammar/Particles/Location (에)|Location Particle 에]]

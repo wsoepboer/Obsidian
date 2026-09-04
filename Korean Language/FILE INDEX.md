@@ -54,6 +54,9 @@ Korean Language/
 | **2026-07-16 - Vocabulary Expansion.md** | Lesson 4: Vocabulary only (19 words) |
 | **2026-07-19 - Numbers & Giving.md** | Lesson 5: Numbers, -에게/한테 particle, gratitude/polite phrases |
 | **2026-08-02 - Indirect Objects & Exclusivity.md** | Lesson 6: 에게/한테 with direct objects, -만 particle, family/verb vocab |
+| **2026-08-09 - Student Life & Study Vocabulary.md** | Lesson 7: Vocabulary only — campus/study items, stationery, wellbeing expressions |
+| **2026-08-15 - Location Particle 에.md** | Lesson 8: 장소 + 에 (existence, position, destination), position nouns, room/object vocab |
+| **2026-08-30 - 에 vs 에서.md** | Lesson 9: 에 vs. 에서 — existence/direction vs. action location |
 
 ---
 
@@ -69,14 +72,16 @@ Korean Language/
 
 | File | Content |
 |------|---------|
-| **📌 Particle Overview.md** | Quick reference table of all 8 particles |
+| **📌 Particle Overview.md** | Quick reference table of all 10 particles, place-vs-person map |
 | **Topic & Subject (은는 이가).md** | 은/는 vs. 이/가 — topic vs. subject distinction |
 | **Object (을를).md** | 을/를 — marking direct objects |
 | **Addition (도).md** | 도 — "also, too" |
 | **Compound (과하고).md** | 과/하고 — "and, with" |
 | **Possession (의).md** | 의 — possessive "'s" |
 | **Directional (에게한테).md** | 에게/한테 — "to" a person |
-| **Exclusivity (만).md** | 만 — "only, just, alone" |
+| **Exclusivity (만).md** | 만 — "only, just, alone", placement, stacking, vs. 도 |
+| **Location (에).md** | 에 — existence/position (있다/없다), destination (가다), position nouns, time use |
+| **Action Location (에서).md** | 에서 — where an action happens, "from", full 에 vs. 에서 decision table |
 
 ### Verb Endings/ — Conjugation Systems
 
@@ -141,7 +146,7 @@ Korean Language/
 
 ---
 
-## 30-Vocabulary/ — ~140+ Words Organized by Category
+## 30-Vocabulary/ — ~190+ Words Organized by Category
 
 | File | Content |
 |------|---------|
@@ -151,7 +156,8 @@ Korean Language/
 | **Actions & Verbs.md** | Essential verbs (35+ words): go, eat, sleep, listen, study, watch, give, send, write |
 | **Descriptors & Adjectives.md** | Temperature, quality, quantity (good, bad, hot, cold, pretty, many) |
 | **Weather & Seasons.md** | Weather, seasons, weather verbs (rain, snow, spring, summer, clear, cloudy) |
-| **Places & Facilities.md** | Locations, buildings (school, library, company, subway, station) |
+| **Places & Facilities.md** | Locations, buildings, rooms (school, library, company, subway, station, bank, living room) |
+| **Position & Direction.md** | Position nouns (위, 아래, 앞, 뒤, 옆, 사이) and how they combine with 에 |
 | **Time & Expressions.md** | Time words, frequency, connecting words (today, tomorrow, now, often, and, because) |
 | **Polite Phrases.md** | Greetings, gratitude, apologies, formality levels (thank you, sorry, excuse me, happy birthday) |
 
@@ -163,8 +169,8 @@ Korean Language/
 |------|---------|
 | **Practice & Review.md** | Overview of review section |
 | **Conjugation Drills.md** | 20+ conjugation practice exercises (-습니다, -어요/-아요, negation) |
-| **Practice Questions.md** | 20 application-level exercises (particles, conjugation, negation, sentence building, comprehension) |
-| **Common Mistakes.md** | 10+ frequent errors with explanations & corrections |
+| **Practice Questions.md** | 36 application-level exercises (particles, 에/에서, 만, position nouns, conjugation, negation, sentence building, comprehension) |
+| **Common Mistakes.md** | 15+ frequent errors with explanations & corrections (incl. 에 vs 에서, 에 on people, 만 stacking) |
 
 ---
 
@@ -217,10 +223,10 @@ dv.paragraph(`**Total markdown files:** ${files.length}`);
 - **Quick reference**: Use [[00-Home/Quick Reference]]
 
 **By proficiency**:
-- **Beginner**: Lessons 1–5 + Basic grammar (particles, verbs, numbers)
+- **Beginner**: Lessons 1–9 + Basic grammar (particles, verbs, numbers, place particles)
 - **Intermediate**: Advanced patterns + all vocabulary
 - **Advanced**: Special verbs, reported speech, passive/causative
 
 ---
 
-**Last updated**: 2026-08-02 | **Vault status**: Complete & comprehensive
+**Last updated**: 2026-08-30 | **Vault status**: Complete & comprehensive

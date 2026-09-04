@@ -16,8 +16,25 @@ At-a-glance guide to essential Korean grammar and vocabulary.
 | **의** | Noun + 의 | Possession | 선생님**의** 개 |
 | **에게/한테** | After noun | To (person) | 엄마**에게** 전화 |
 | **만** | After noun (replaces others) | Only/exclusivity | 동생**만** 학생이에요 |
+| **에** | After place noun | At/to (place) | 학교**에** 가요 |
+| **에서** | After place noun | In/at (place), action | 집**에서** 먹어요 |
 
 See: [[20-Grammar/Particles/📌 Particle Overview|All particles]]
+
+---
+
+## 에 vs. 에서 — the verb decides
+
+| Verb | Particle | Example |
+|------|----------|---------|
+| 있다 / 없다 / 가다 / 오다 | **에** | 저는 집**에** 가요 (I go home) |
+| 먹다, 자다, 쉬다, 일하다, 공부하다… | **에서** | 저는 집**에서** 먹어요 (I eat at home) |
+
+**Person, not place** → 에게/한테: 친구**에게** 전화해요 (never 친구에).
+**Position words** go after the noun, then 에: 책상 위**에**, 회사 옆**에**.
+**No 에** on 오늘 / 내일 / 어제 / 지금 / 올해: 내일 학교**에** 가요 ✓
+
+See: [[20-Grammar/Particles/Location (에)|에]] | [[20-Grammar/Particles/Action Location (에서)|에서]]
 
 ---
 
@@ -121,7 +138,7 @@ See: [[20-Grammar/Numbers & Time/Sino-Korean Numbers|Sino-Korean]] | [[20-Gramma
 
 **Must-know adjectives**: 좋다, 맑다, 덥다, 춥다
 
-**Must-know particles**: 은/는, 이/가, 을/를, 에게
+**Must-know particles**: 은/는, 이/가, 을/를, 에게, 에, 에서
 
 **Key time words**: 오늘, 내일, 지금
 

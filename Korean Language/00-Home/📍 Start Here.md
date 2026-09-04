@@ -14,7 +14,7 @@ Welcome to your Korean language learning vault. Navigate using the links below o
 ## 📚 Study Sections
 
 ### [[10-Lessons/📌 Lessons by Date|Lessons]]
-All lessons organized chronologically (Jun–Jul 2026). Each lesson covers grammar and vocabulary for that session.
+All lessons organized chronologically (Jun–Aug 2026). Each lesson covers grammar and vocabulary for that session.
 
 ### [[20-Grammar/📌 Grammar Index|Grammar]]
 Grammar topics broken down by type:
@@ -24,7 +24,7 @@ Grammar topics broken down by type:
 - Special verbs
 
 ### [[30-Vocabulary/📌 Vocabulary Index|Vocabulary]]
-Over 140 words organized by category (family, food, verbs, adjectives, etc.)
+Over 190 words organized by category (family, food, verbs, adjectives, positions, etc.)
 
 ### [[40-Review/Practice & Review|Review]]
 Practice exercises, drills, and common mistakes to avoid.
@@ -35,9 +35,9 @@ Practice exercises, drills, and common mistakes to avoid.
 
 | Section | Status |
 |---------|--------|
-| Lessons covered | Jun 18 – Jul 19, 2026 (5 sessions) |
-| Grammar topics | 12 major areas |
-| Vocabulary | ~140+ words |
+| Lessons covered | Jun 18 – Aug 30, 2026 (9 sessions) |
+| Grammar topics | 14 major areas |
+| Vocabulary | ~190+ words |
 
 ---
 
@@ -50,4 +50,4 @@ Practice exercises, drills, and common mistakes to avoid.
 
 ---
 
-**Last updated**: 2026-07-19 | **Total notes**: 40+
+**Last updated**: 2026-08-30 | **Total notes**: 45+

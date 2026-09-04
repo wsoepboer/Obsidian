@@ -6,9 +6,9 @@
 
 ## Grammar Topics
 
-### Particle 에게/한테 — direct object + indirect object together
+### Particle 에게/한테 — action target + direct object together
 
-Recap from [[10-Lessons/2026-07-19 - Numbers & Giving|19 Jul]]: 에게 (formal) / 한테 (casual) mark **who the action is directed toward**. This lesson adds the case where the sentence carries **both** a direct object (을/를) and an indirect object (에게/한테) at once.
+Recap from [[10-Lessons/2026-07-19 - Numbers & Giving|19 Jul]]: 에게 (written/neutral) / 한테 (spoken/casual) mark **who the action is directed toward** — the **action target**, not an "indirect object". This lesson adds the case where the sentence carries **both** a direct object (을/를) and an action target (에게/한테) at once; the two never replace each other.
 
 **Pattern**: Noun(target) + 에게/한테 + Noun(thing) + 을/를 + Verb
 
@@ -20,7 +20,7 @@ Recap from [[10-Lessons/2026-07-19 - Numbers & Giving|19 Jul]]: 에게 (formal) 
 - 쪽영 씨가 저**에게** 선물**을** 줘요.
   (Jjogyeong gives me a gift.)
 
-See: [[20-Grammar/Particles/Directional (에게한테)|Directional Particles]]
+See: [[20-Grammar/Particles/Directional (에게한테)|Directional Particles]] — including 께 (honorific) and 에게서/한테서 ("from a person")
 
 ---
 
@@ -28,13 +28,22 @@ See: [[20-Grammar/Particles/Directional (에게한테)|Directional Particles]]
 
 Attached after a noun to exclude everything else. Same form regardless of 받침, and it **replaces** 은/는/이/가/을/를/에게/한테 — particles don't stack on top of 만.
 
+**Form**: 명사 + 만 — same shape whatever the noun ends in (동생만, 연필만, 드라마만, 한국어만).
+
+**It takes the slot of the particle it replaces**:
+- 리사 씨는 노래**를** 좋아해요. → 리사 씨는 노래**만** 좋아해요. (Lisa likes only songs.)
+
 **Examples**:
 - 저**만** 영어를 해요.
   (Only I speak English.)
+- 저는 여동생**만** 있어요.
+  (I only have a younger sister.)
+- 저는 한국어**만** 공부해요.
+  (I only study Korean.)
 - 동생**만** 책을 읽어요.
   (Only my younger sibling reads books.)
-- 동생**만** 학생이에요.
-  (Only my younger sibling is a student.)
+- 저와 언니는 회사원이에요. 동생**만** 학생이에요.
+  (My older sister and I are office workers. Only my younger sibling is a student.)
 
 **Contrast with 는/은** (topic, not exclusive):
 - 저**는** 영어를 좋아해요. (As for me, I like English.)
@@ -94,4 +103,5 @@ See: [[30-Vocabulary/People & Family]], [[30-Vocabulary/Actions & Verbs]], [[30-
 
 ---
 
-**All lessons complete**: [[10-Lessons/📌 Lessons by Date]]
+**Next lesson**: [[10-Lessons/2026-08-09 - Student Life & Study Vocabulary]]
+**All lessons**: [[10-Lessons/📌 Lessons by Date]]

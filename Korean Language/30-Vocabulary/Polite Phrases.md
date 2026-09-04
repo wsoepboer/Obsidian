@@ -50,6 +50,8 @@ Essential phrases for respectful communication and social interaction.
 | Korean | English | Lesson |
 |--------|---------|--------|
 | 잘 모르겠어요 | I don't know | 06-18 |
+| 요즘 잘 지내요? | How are you these days? | 08-09 |
+| 어때요? | How is it? / How about it? | 08-09 |
 
 ---
 

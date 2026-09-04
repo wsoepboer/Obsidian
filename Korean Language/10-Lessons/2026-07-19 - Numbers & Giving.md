@@ -35,24 +35,36 @@ See: [[20-Grammar/Numbers & Time/📌 Numbers & Time]]
 
 ---
 
-### Particle 에게/한테 ("to" someone)
+### Particle 에게/한테 ("to" someone) — reviewed again 2 Aug
 
 **Pattern**: Noun + 에게 OR Noun + 한테
 
-| 받침? | 에게 | 한테 |
-|-------|------|------|
-| O | 동생에게 | 동생한테 |
-| X | 누나에게 | 누나한테 |
+**Meaning**: marks the **action target** — the person the action is aimed at. (Not an "indirect object marker": it sits happily alongside 을/를.)
 
-**Meaning**: Indicates action target (person "to whom").
+**Form**: identical for both, and **no 받침 change** — the particle never shifts shape.
+
+| Base | 받침? | 에게 | 한테 |
+|------|-------|------|------|
+| 동생 | O | 동생에게 | 동생한테 |
+| 학생 | O | 학생에게 | 학생한테 |
+| 누나 | X | 누나에게 | 누나한테 |
+| 오빠 | X | 오빠에게 | 오빠한테 |
+
+**Register**: 에게 = more written/neutral · 한테 = more spoken/casual. To an elder, use the honorific **께** (선생님**께**).
 
 **Examples**:
 - 아빠**한테** 시계를 줘요.
   (I give my dad a watch.)
-- 엄마**에게** 전화를 해요.
-  (Mom calls me.)
+- 동생**에게** 책을 줘요. / 동생**한테** 책을 줘요.
+  ([I] give a book to my younger sibling.)
+- 엄마가 저**한테** 전화를 해요.
+  (Mom calls me. — note 엄마**가** is the subject, 저**한테** the target.)
 - 친구**한테** 편지를 써요.
   (I write a letter to my friend.)
+- 저는 친구**에게** 생일 문자를 보내요.
+  (I send a birthday text to a friend.)
+
+⚠️ People take 에게/한테; **places** take 에 — 학교**에** 가요 ✓ / 친구**에** 가요 ✗. See [[20-Grammar/Particles/Location (에)|Particle 에]].
 
 See: [[20-Grammar/Particles/Directional (에게한테)]]
 
@@ -74,6 +86,13 @@ See: [[20-Grammar/Particles/Directional (에게한테)]]
 - 지하철 – subway
 - 역 – station
 - 화장실 – toilet/bathroom
+
+### Register: sorry & thank you
+
+| | Sorry | Thank you |
+|---|-------|-----------|
+| **Polite / formal** | 죄송해요 / 죄송합니다 | 감사합니다 |
+| **To a friend / casual** | 미안해(요) | 고마워(요) |
 
 ### Gratitude & Politeness
 - 고마워(요) – thank you (to friend)
@@ -107,8 +126,11 @@ See: [[30-Vocabulary/Polite Phrases]]
    (Natasha writes a letter to her friend.)
 
 3. 프엉 씨가 저**한테** 선물을 줬어요.
-   (Phuong gave me a gift.)
+   (Phuong gave me a gift. — past tense of 주다: 줘요 → 줬어요)
+
+In all three, 에게 and 한테 are interchangeable; only the register changes.
 
 ---
 
-**All lessons complete**: [[10-Lessons/📌 Lessons by Date]]
+**Next lesson**: [[10-Lessons/2026-08-02 - Indirect Objects & Exclusivity]]
+**All lessons**: [[10-Lessons/📌 Lessons by Date]]
