@@ -43,9 +43,10 @@ Built from the six Brightspace session texts plus the L01 orientation lecture. N
 → **[[00 Family Business and Research MOC|Open the course]]** · [[Family Business & Research - Course Info|Course Info]]
 The three-circle model, succession and successor readiness, corporate vs family governance, family dynamics and conflict, professionalisation, stewardship and legacy — plus the research strand: pathways, sources and APA. *(`$= dv.pages('"Family Business & Research/Topics"').length` sessions · `$= dv.pages('"Family Business & Research/Concepts"').length` concepts)*
 
-### 🪞 Personal Branding  ·  *scaffold — material pending*
-→ **[[00 Personal Branding MOC|Open the course]]**
-Brand identity and positioning, self-knowledge and values, personal development plan, storytelling and pitching, LinkedIn and digital footprint, reflection.
+### 🪞 Personal Branding  ·  *active — indexed from Brightspace (outline only)*
+Course info, six workshop outlines, the portfolio brief and the reading list are in; **no decks, reader or rubric text yet**, so concepts are still to build. **5 EC, year-long.**
+→ **[[00 Personal Branding MOC|Open the course]]** · [[Personal Branding - Course Info|Course Info]]
+Brand identity and positioning, self-knowledge and values, the Golden Circle and T-shaped profile, storytelling and pitching, digital portfolio and footprint, reflection. *(`$= dv.pages('"Personal Branding/Concepts"').length` concepts)*
 
 ### ⚙️ Operations Management  ·  *scaffold — material pending*
 → **[[00 Operations Management MOC|Open the course]]**
@@ -82,7 +83,7 @@ Built on the standard **Obsidian-for-students** method: a map of content, chapte
 ├── Smart Industry/                              (Lectures · Topics · Concepts · Reference · Files · Source Text)
 ├── Global Dynamics & Supply Chain Management/   (Lectures · Topics · Concepts · Reference)
 ├── Family Business & Research/                  (Lectures · Topics · Concepts · Reference)
-├── Personal Branding/                           (Topics · Concepts · Reference)
+├── Personal Branding/                           (Lectures · Topics · Concepts · Reference)
 ├── Operations Management/                       (Topics · Concepts · Reference)
 ├── French Language and Intercultural Management 3/  (Topics · Concepts · Reference)
 └── Global Sales and Accountmanagement/          (Topics · Concepts · Reference)
@@ -127,7 +128,7 @@ Built on the standard **Obsidian-for-students** method: a map of content, chapte
 - **Smart Industry:** [[Smart Industry - Course Info]] · [[00 Smart Industry MOC|folder index]] · [[Smart Industry Glossary]]
 - **Global Dynamics & SCM:** [[00 Global Dynamics and Supply Chain Management MOC]] · [[Global Dynamics and Supply Chain Management Glossary]]
 - **Family Business & Research:** [[Family Business & Research - Course Info]] · [[00 Family Business and Research MOC|course MOC]] · [[Research Pathways]] · [[Assessment and Deliverables]] · [[AI Policy]] · [[Family Business and Research Glossary]] · [[Research Methods Cheat-Sheet]]
-- **Personal Branding:** [[00 Personal Branding MOC]] · [[Personal Branding Glossary]]
+- **Personal Branding:** [[Personal Branding - Course Info]] · [[00 Personal Branding MOC|course MOC]] · [[Personal Branding Glossary]] · [[Personal Branding Literature & Sources]]
 - **Operations Management:** [[00 Operations Management MOC]] · [[Operations Management Glossary]] · [[Operations Formulas Cheat-Sheet]]
 - **French & Intercultural Management 3:** [[00 French Language and Intercultural Management 3 MOC]] · [[French and Intercultural Management Glossary]] · [[French Grammar Reference]] · [[French Business Phrases]]
 - **Global Sales and Accountmanagement:** [[00 Global Sales and Accountmanagement MOC]] · [[Global Sales and Accountmanagement Glossary]] · [[Sales Frameworks Index]]

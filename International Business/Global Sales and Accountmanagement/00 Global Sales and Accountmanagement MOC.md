@@ -20,6 +20,8 @@ Course home for **Global Sales and Accountmanagement**. [[Global Sales and Accou
 | Know what to actually produce | [[The Altrex Assignment]] |
 | Know exactly how you are graded | [[Assessment Matrix - Global Sales and Accountmanagement]] |
 | See the six frameworks the rubric demands | [[Sales Frameworks Index]] |
+| See the plan of approach — company, problem, theories, tasks | [[Plan of Approach - Altrex]] |
+| See the full task backlog, theory mapping and report wireframe | [[Project Plan - Altrex]] |
 | Look up a term | [[Global Sales and Accountmanagement Glossary]] |
 
 ## The assignment in one line

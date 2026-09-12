@@ -22,6 +22,7 @@ Course home for **Global Dynamics & Supply Chain Management**. [[Global Dynamics
 | Find your assessment slot | [[Assessment Schedule]] |
 | Study the theory | [[T1 - Foundation of Supply Chain Management]] |
 | Protect your individual grade | [[Personal Logbook]] |
+| See the task plan, theory mapping and report wireframe | [[Project Plan - Chiquita]] |
 | Look up a term | [[Global Dynamics and Supply Chain Management Glossary]] |
 
 ## Lectures
