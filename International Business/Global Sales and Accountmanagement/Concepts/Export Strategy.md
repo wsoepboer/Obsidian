@@ -15,7 +15,7 @@ Three obligations follow. The opportunity must be **mapped**, not asserted — m
 
 Where it stops and [[Account Strategy]] begins: export strategy is about **entering** a market; account strategy is about **holding customers** once you are in it.
 
-**Connected:** [[Market Entry Strategy]] · [[Country Selection]] · [[The Six Perspectives]] · [[Traceable Sources]] · [[Account Strategy]]
+**Connected:** [[Market Entry Strategy]] · [[Country Selection]] · [[Country Selection Model]] · [[The Six Perspectives]] · [[Traceable Sources]] · [[Account Strategy]]
 
 ---
 **Assignment:** [[The Altrex Assignment]] · [[00 Global Sales and Accountmanagement MOC|↩ Course MOC]]

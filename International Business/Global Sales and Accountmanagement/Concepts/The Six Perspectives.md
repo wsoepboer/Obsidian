@@ -25,7 +25,7 @@ Three times. Which means: build the grid once, apply it three times.
 > [!note] The Excellent markers cluster in two of them
 > *"++ Detailed legal and financial implications"* and *"++ Logistical impact analyses"* are three of the six Excellent markers. Depth in **legal, financial and logistical** is the cheapest available route above *Good*.
 
-**Connected:** [[Export Strategy]] · [[Account Strategy]] · [[Market Entry Risk]] · [[Practical Advice]]
+**Connected:** [[Export Strategy]] · [[Account Strategy]] · [[Market Entry Risk]] · [[Practical Advice]] · [[CAGE Distance Framework]] · [[Country Selection Model]]
 
 ---
 **Assignment:** [[The Altrex Assignment]] · [[00 Global Sales and Accountmanagement MOC|↩ Course MOC]]

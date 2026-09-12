@@ -16,7 +16,7 @@ The rubric's phrase, used at both grade levels: the country analysis must use **
 
 Two working habits: cite to the **primary** source rather than to whoever quoted it, and record the source as you collect the number rather than reconstructing citations at the end. Note also that GenAI output is not a source — the tool must be declared and the fact still needs a real citation → [[AI Policy - IB Programme]].
 
-**Connected:** [[Data-Driven Commercial Decisions]] · [[Export Strategy]] · [[Country Selection]] · [[AI Policy - IB Programme]]
+**Connected:** [[Data-Driven Commercial Decisions]] · [[Export Strategy]] · [[Country Selection]] · [[Country Selection Model]] · [[AI Policy - IB Programme]]
 
 ---
 **Assignment:** [[The Altrex Assignment]] · [[00 Global Sales and Accountmanagement MOC|↩ Course MOC]]

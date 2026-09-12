@@ -11,5 +11,7 @@ Increasing commitment as a firm expands abroad:
 
 **See also:** [[Uppsala Model]] · [[Mergers and Takeovers]] · [[Outsourcing & Offshoring]]
 
+**Cross-course:** [[Market Entry Strategy]] · [[Country Selection Model]] — choosing the mode, and choosing the country to apply it to. From [[00 Global Sales and Accountmanagement MOC|Global Sales and Accountmanagement]]
+
 ---
 **Topic:** [[05 Internationalisation]] · [[00 Organisational Strategy and HR MOC|↩ Lectures MOC]]

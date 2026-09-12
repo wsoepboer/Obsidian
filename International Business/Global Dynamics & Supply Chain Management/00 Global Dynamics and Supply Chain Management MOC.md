@@ -107,7 +107,7 @@ Atomic notes, one idea each — every one of them named in the Brightspace mater
 > **Bullwhip effect** (the Beer Game teaches it, but the deck never names it) · SCOR model · push vs pull · Kraljic matrix · make-or-buy · EOQ · S&OP · Incoterms · nearshoring and reshoring · dual sourcing · redundancy vs flexibility · due diligence and chain transparency
 
 ## Cross-course links
-- [[00 Global Sales and Accountmanagement MOC|Global Sales and Accountmanagement]] — same lecturer (**Chiel van Dijk**), and the commercial promise behind the chain. Its rubric also demands logistical impact analysis
+- [[00 Global Sales and Accountmanagement MOC|Global Sales and Accountmanagement]] — same lecturer (**Chiel van Dijk**), and the commercial promise behind the chain. Its rubric also demands logistical impact analysis. [[Country Selection Model]] · [[CAGE Distance Framework]] give [[Country Analysis]] a screening structure and a traceable source list
 - [[Outsourcing & Offshoring]] · [[Forms of Economic Integration]] · [[International Institutions]] · [[Internationalisation vs Globalisation]] — from [[00 Organisational Strategy and HR MOC|Organisational Strategy and HR]]
 - [[00 Operations Management MOC|Operations Management]] — the internal counterpart to the external chain
 - [[00 Smart Industry MOC|Smart Industry]] — IoT, digital twins and data-driven operations, the same technologies as pillar 8

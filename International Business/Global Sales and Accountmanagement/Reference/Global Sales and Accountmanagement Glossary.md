@@ -15,6 +15,8 @@ Every term named in the course material, one line each. [[00 Global Sales and Ac
 - **[[Account Strategy]]** — how customers are built, maintained and expanded once you are in; five named elements.
 - **[[Market Entry Strategy]]** — the entry mode, **plus the modes you rule out and why**.
 - **[[Country Selection]]** — the countries are *assigned*, not chosen; the analysis must be tailored to them.
+- **[[Country Selection Model]]** — the screening funnel: knock-out pre-selection → coarse screening → fine selection → final choice, operationalised as a weighted scoring matrix.
+- **[[CAGE Distance Framework]]** — cultural, administrative, geographic and economic distance, measured *from your home market*, not as a country score.
 
 ## The analytical frame
 - **[[The Six Perspectives]]** — economic, financial, cultural, marketing, logistical, legal. Required three times over.

@@ -16,3 +16,6 @@
 
 # macOS zip-extraction resource forks (junk, no content)
 __MACOSX/
+
+# Scratch output folder at the repo root - not part of any vault
+/Claude outputs/

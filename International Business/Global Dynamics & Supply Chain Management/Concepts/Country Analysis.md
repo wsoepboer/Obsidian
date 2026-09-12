@@ -18,5 +18,7 @@ The assignment ties it to the chain: *"at least one country within the supply ch
 
 **Connected:** [[Country Training]] · [[Strategic Implications]] · [[Geopolitical Risk]] · [[Trade Barriers and Tariffs]] · [[Exchange Rate Risk]]
 
+**Cross-course:** [[Country Selection Model]] · [[CAGE Distance Framework]] — a screening structure and a traceable source list for the macro half of this analysis, from [[00 Global Sales and Accountmanagement MOC|Global Sales and Accountmanagement]] (same lecturer)
+
 ---
 **Topic:** [[T1 - Foundation of Supply Chain Management]] · [[00 Global Dynamics and Supply Chain Management MOC|↩ Course MOC]]

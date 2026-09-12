@@ -16,7 +16,7 @@ The rubric's requirement here contains the sharpest instruction in the whole doc
 
 For Altrex — a bulky, safety-certified physical product with an existing dealer presence in many markets — the realistic candidates are distributor, agent and sales subsidiary, and the deciding factors will be certification liability, logistics cost and how technical the sale is.
 
-**Connected:** [[Export Strategy]] · [[Country Selection]] · [[Market Entry Risk]] · [[Stages of Internationalisation]] · [[Uppsala Model]]
+**Connected:** [[Export Strategy]] · [[Country Selection]] · [[Country Selection Model]] · [[CAGE Distance Framework]] · [[Market Entry Risk]] · [[Stages of Internationalisation]] · [[Uppsala Model]]
 
 ---
 **Assignment:** [[The Altrex Assignment]] · [[00 Global Sales and Accountmanagement MOC|↩ Course MOC]]

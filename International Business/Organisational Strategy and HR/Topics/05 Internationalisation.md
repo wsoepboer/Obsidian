@@ -37,4 +37,6 @@ Why and how organisations cross borders.
 Timeline of a company's global expansion (Nike, IKEA, Google…): how they succeeded, highlights of their international strategy.
 
 ## Links
+**Cross-course:** [[Country Selection Model]] · [[CAGE Distance Framework]] — *which* country, decided rather than described; from [[00 Global Sales and Accountmanagement MOC|Global Sales and Accountmanagement]]
+
 [[Internationalisation vs Globalisation]] · [[Forms of Economic Integration]] · [[International Institutions]] · [[Theories of Internationalisation]] · [[Uppsala Model]] · [[Born Globals]] · [[Stages of Internationalisation]] · [[Outsourcing & Offshoring]]

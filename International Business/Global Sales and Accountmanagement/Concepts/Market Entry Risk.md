@@ -24,7 +24,7 @@ The rubric names **nine** risk categories, and naming them is the requirement:
 > [!important] Nine categories × five perspectives is a grid, not an essay
 > The structure is explicit, so use it: table the nine, and for each say what could happen, how likely, what it would cost, and what mitigates it. Then attach the mitigations to the [[Market Entry Strategy]] — an entry mode is partly a risk decision, and saying so connects two graded criteria.
 
-**Connected:** [[Market Entry Strategy]] · [[The Six Perspectives]] · [[Corruption Risk]] · [[Responsible Commercial Decisions]]
+**Connected:** [[Market Entry Strategy]] · [[The Six Perspectives]] · [[Corruption Risk]] · [[Responsible Commercial Decisions]] · [[Country Selection Model]] · [[CAGE Distance Framework]]
 
 ---
 **Assignment:** [[The Altrex Assignment]] · [[00 Global Sales and Accountmanagement MOC|↩ Course MOC]]

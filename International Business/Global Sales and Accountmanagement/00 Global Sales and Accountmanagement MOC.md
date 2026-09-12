@@ -35,7 +35,7 @@ Read the assessment matrix as a specification and it decomposes into six deliver
 
 | # | What the rubric demands | Note |
 |---|---|---|
-| 1 | Export opportunities analysed and mapped for **≥1 EU and ≥1 non-EU country**, from current, reliable, traceable sources | [[Export Strategy]] · [[Country Selection]] · [[Traceable Sources]] |
+| 1 | Export opportunities analysed and mapped for **≥1 EU and ≥1 non-EU country**, from current, reliable, traceable sources | [[Export Strategy]] · [[Country Selection]] · [[Country Selection Model]] · [[Traceable Sources]] |
 | 2 | The recommendation substantiated from **six perspectives**: economic, financial, cultural, marketing, logistical, legal | [[The Six Perspectives]] |
 | 3 | An **account management** recommendation: sales team composition, communication channels, trade fairs, online strategy, influencer marketing | [[Account Strategy]] · [[Sales Team Composition]] · [[Communication Channels]] · [[Trade Fairs]] · [[Online Strategy]] · [[Influencer Marketing]] |
 | 4 | **Market-entry strategy** for a selected country — including **why certain entry strategies are not recommended** | [[Market Entry Strategy]] |
@@ -70,6 +70,9 @@ Atomic notes, one idea each — every one named in the Brightspace material. Ope
 ### The two strategies
 [[Export Strategy]] · [[Account Strategy]] · [[Market Entry Strategy]] · [[Country Selection]]
 
+### Choosing the market
+[[Country Selection Model]] · [[CAGE Distance Framework]] — the screening theory behind the country analysis, taken from the IB literature rather than the (unpublished) lectures → [[Sales Frameworks Index]]
+
 ### The analytical frame
 [[The Six Perspectives]] · [[Traceable Sources]] · [[Data-Driven Commercial Decisions]] · [[Responsible Commercial Decisions]] · [[Practical Advice]]
 
@@ -89,7 +92,7 @@ Atomic notes, one idea each — every one named in the Brightspace material. Ope
 
 ## Cross-course links
 - [[00 Global Dynamics and Supply Chain Management MOC|Global Dynamics & Supply Chain Management]] — **same lecturer**, and the delivery promise behind every sale. Its ten pillars are where *"logistical impact analyses"* comes from: [[Cross-Border Logistics]] · [[Transportation Modes]] · [[Lead Time]] · [[Trade Barriers and Tariffs]]
-- [[Porter's Competitive Strategies]] · [[Treacy & Wiersema Value Strategies]] · [[Stages of Internationalisation]] · [[Uppsala Model]] · [[Hofstede's Cultural Dimensions]] · [[Trompenaars' Cultural Dimensions]] — from [[00 Organisational Strategy and HR MOC|Organisational Strategy and HR]]; the cultural and internationalisation frameworks the rubric assumes
+- [[Porter's Competitive Strategies]] · [[Treacy & Wiersema Value Strategies]] · [[Stages of Internationalisation]] · [[Uppsala Model]] · [[Hofstede's Cultural Dimensions]] · [[Trompenaars' Cultural Dimensions]] — from [[00 Organisational Strategy and HR MOC|Organisational Strategy and HR]]; the cultural and internationalisation frameworks the rubric assumes. [[Uppsala Model]] is the descriptive counterpart to the normative [[Country Selection Model]], and [[Hofstede's Cultural Dimensions|Hofstede]] supplies the *C* in [[CAGE Distance Framework]]
 - [[00 French Language and Intercultural Management 3 MOC|French Language and Intercultural Management 3]] — negotiating and presenting across cultures
 - [[00 Personal Branding MOC|Personal Branding]] — the pitch and professional presence, for the oral defence
 - [[00 Operations Management MOC|Operations Management]] — what sales can credibly promise on capacity and delivery

@@ -16,5 +16,7 @@ Six dimensions comparing **national** cultures:
 
 **See also:** [[GLOBE Model]] · [[Trompenaars' Cultural Dimensions]] · [[Onion Model]]
 
+**Cross-course:** [[CAGE Distance Framework]] — where these dimensions become the *cultural distance* criterion in [[Country Selection Model]]. From [[00 Global Sales and Accountmanagement MOC|Global Sales and Accountmanagement]]
+
 ---
 **Topic:** [[12 Organisational Culture & Ethics]] · [[00 Organisational Strategy and HR MOC|↩ Lectures MOC]]

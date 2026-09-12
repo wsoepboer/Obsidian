@@ -22,7 +22,10 @@ The rubric adds one requirement of its own: **at least one EU and one non-EU cou
 
 If the assigned countries do not already satisfy the EU / non-EU floor, that is a question for the lecturer before you start writing.
 
-**Connected:** [[Export Strategy]] · [[The Six Perspectives]] · [[Market Entry Risk]] · [[Traceable Sources]]
+> [!tip] The screening theory still earns marks
+> Not choosing the countries does not make [[Country Selection Model|the selection model]] irrelevant — it changes what you use it for. Its criteria are how you evidence *why* an assigned market is attractive and where it is hard, how you rank your assigned countries against each other to pick the one the entry strategy is built around, and where half the risk list comes from.
+
+**Connected:** [[Country Selection Model]] · [[CAGE Distance Framework]] · [[Export Strategy]] · [[The Six Perspectives]] · [[Market Entry Risk]] · [[Traceable Sources]]
 
 ---
 **Assignment:** [[The Altrex Assignment]] · [[00 Global Sales and Accountmanagement MOC|↩ Course MOC]]

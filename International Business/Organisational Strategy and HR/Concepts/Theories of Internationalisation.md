@@ -13,5 +13,7 @@ Why and how organisations go international:
 
 **See also:** [[Stages of Internationalisation]]
 
+**Cross-course:** [[Country Selection Model]] — the applied decision layer these theories sit under: *which* country, screened and scored. From [[00 Global Sales and Accountmanagement MOC|Global Sales and Accountmanagement]]
+
 ---
 **Topic:** [[05 Internationalisation]] · [[00 Organisational Strategy and HR MOC|↩ Lectures MOC]]

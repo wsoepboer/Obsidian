@@ -17,7 +17,7 @@ Which frameworks this course actually requires. [[00 Global Sales and Accountman
 |---|---|---|
 | **Market-entry strategy**, with rejected modes argued | Entry-mode comparison; stages of internationalisation | [[Stages of Internationalisation]] · [[Uppsala Model]] — [[00 Organisational Strategy and HR MOC\|OS&HR]] |
 | **Cultural** perspective | A cultural-dimensions model | [[Hofstede's Cultural Dimensions]] · [[Trompenaars' Cultural Dimensions]] — [[00 Organisational Strategy and HR MOC\|OS&HR]] |
-| **Economic / market** perspective | Country attractiveness and market screening; macro analysis | Country-level analysis method → [[Country Selection]]; cf. [[Country Analysis]] in [[00 Global Dynamics and Supply Chain Management MOC\|GD&SCM]] |
+| **Economic / market** perspective | Country attractiveness and market screening; macro analysis | [[Country Selection Model]] — screening funnel and weighted scoring; [[CAGE Distance Framework]] — the four distances; assignment framing in [[Country Selection]]; cf. [[Country Analysis]] in [[00 Global Dynamics and Supply Chain Management MOC\|GD&SCM]] |
 | **Competitive positioning** implied by the recommendation | Generic strategy and value discipline | [[Porter's Competitive Strategies]] · [[Treacy & Wiersema Value Strategies]] — [[00 Organisational Strategy and HR MOC\|OS&HR]] |
 | **Logistical** perspective and *"++ Logistical impact analyses"* | Modes, cross-border, lead time, tariffs | [[Transportation Modes]] · [[Cross-Border Logistics]] · [[Lead Time]] · [[Trade Barriers and Tariffs]] — [[00 Global Dynamics and Supply Chain Management MOC\|GD&SCM]] |
 | **Risk analysis**, nine categories | A risk identification and assessment structure | [[Market Entry Risk]] |
@@ -26,6 +26,9 @@ Which frameworks this course actually requires. [[00 Global Sales and Accountman
 
 ## Not yet taught, not yet written
 Standard sales frameworks that this unit has **not named** anywhere. Left listed rather than invented into notes, so that everything in `Concepts/` stays traceable to the course material:
+
+> [!note] Two frameworks added from the literature, not the course
+> [[Country Selection Model]] and [[CAGE Distance Framework]] are standard IB theory (Cavusgil; Root; Harrell & Kiefer; Ghemawat), written up because the rubric's economic perspective demands a screening method and the course supplies none. Both notes carry a sourcing callout — replace them with the lecturer's version once the decks appear.
 
 **The buying side** — buying process and buyphases · decision-making unit (DMU) and buying-centre roles · buying situations · procurement power
 **The sales process** — prospecting and lead qualification · needs analysis · SPIN selling · value and benefit selling · objection handling · closing · after-sales
